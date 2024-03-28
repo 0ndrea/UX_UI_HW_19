@@ -1,0 +1,9 @@
+* {
+  font-family: "Bricolage Grotesque", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
